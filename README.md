@@ -1,10 +1,10 @@
-# Meat - Angular App Starter
+# Meat - Angular App
 
 ## 1. Passos para começar
 
 ### Clonando o Repositório
 
-`git clone https://github.com/cod3rcursos/meat-app-starter.git`
+`git clone https://github.com/delley/meat-app.git`
 
 ### Instalando as Dependências
 
@@ -87,4 +87,4 @@ Dependências dos pacotes que devem ficar em package.json:
 ```
 ## Créditos
 
-Todas as imagens usadas na aplicação são pertencentes a freepik.com
+Todas as imagens usadas na aplicação são pertencentes a [freepik.com](http://www.freepik.com/)
